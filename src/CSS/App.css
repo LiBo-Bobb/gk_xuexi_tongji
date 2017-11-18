@@ -1,0 +1,19 @@
+.studyTime{
+    position: fixed;
+    top: 50px;
+    left: 15px;
+    right: 15px;
+    bottom: 115px;
+    height:110px;
+    border: 1px solid #ECECEC;
+    background-color: white;
+    overflow: hidden;
+}
+.studyTime .studyTimeLeft{
+    width: 100px;
+    height: 80px;
+    border:1px solid royalblue;
+    position: absolute;
+    left: 15px;
+    top: 15px;
+}
